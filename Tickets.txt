@@ -1,0 +1,5 @@
+ticket_id,bus_id,status,amount_paid
+1,1,booked,1500.0
+2,2,booked,3000.0
+3,1,cancelled,1500.0
+4,3,booked,1400.0

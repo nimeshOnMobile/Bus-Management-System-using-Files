@@ -1,0 +1,4 @@
+id,capacity,src,dest,timing,price
+1,50,Indore,Mumbai,09:30AM-12:30PM,1500.00
+2,100,Mumbai,Delhi,09:30AM-12:30PM,3000.00
+3,59,Delhi,Kolkata,10:00AM-03:00PM,1400.0
